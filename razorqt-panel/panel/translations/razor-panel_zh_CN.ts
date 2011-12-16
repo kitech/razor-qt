@@ -6,42 +6,42 @@
     <message>
         <location filename="../razorpanel.cpp" line="495"/>
         <source>Top of desktop</source>
-        <translation type="unfinished">顶部</translation>
+        <translation>桌面顶部</translation>
     </message>
     <message>
         <location filename="../razorpanel.cpp" line="496"/>
         <source>Bottom of desktop</source>
-        <translation type="unfinished">底部</translation>
+        <translation>桌面底部</translation>
     </message>
     <message>
         <location filename="../razorpanel.cpp" line="497"/>
         <source>Left of desktop</source>
-        <translation type="unfinished">左侧</translation>
+        <translation>桌面左侧</translation>
     </message>
     <message>
         <location filename="../razorpanel.cpp" line="498"/>
         <source>Right of desktop</source>
-        <translation type="unfinished">右侧</translation>
+        <translation>桌面右侧</translation>
     </message>
     <message>
         <location filename="../razorpanel.cpp" line="505"/>
         <source>Top of desktop %1</source>
-        <translation type="unfinished">%1 的顶部</translation>
+        <translation>桌面 %1 的顶部</translation>
     </message>
     <message>
         <location filename="../razorpanel.cpp" line="506"/>
         <source>Bottom of desktop %1</source>
-        <translation type="unfinished">%1 的底部</translation>
+        <translation>桌面 %1 的底部</translation>
     </message>
     <message>
         <location filename="../razorpanel.cpp" line="507"/>
         <source>Left of desktop %1</source>
-        <translation type="unfinished">%1 的左侧</translation>
+        <translation>桌面 %1 的左侧</translation>
     </message>
     <message>
         <location filename="../razorpanel.cpp" line="508"/>
         <source>Right of desktop %1</source>
-        <translation type="unfinished">%1 的右侧</translation>
+        <translation>桌面 %1 的右侧</translation>
     </message>
 </context>
 <context>
