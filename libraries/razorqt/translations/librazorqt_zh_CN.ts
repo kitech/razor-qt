@@ -92,22 +92,22 @@
     <message>
         <location filename="../powermanager.cpp" line="156"/>
         <source>Razor Session Reboot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重启 Razor 会话</translation>
     </message>
     <message>
         <location filename="../powermanager.cpp" line="157"/>
         <source>Do you want to really restart your computer? All unsaved work will be lost...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">是否确定重启你的电脑？&lt;p&gt;没有保存的工作将会丢失。。。</translation>
     </message>
     <message>
         <location filename="../powermanager.cpp" line="168"/>
         <source>Razor Session Shutdown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关闭 Razor 会话</translation>
     </message>
     <message>
         <location filename="../powermanager.cpp" line="169"/>
         <source>Do you want to really switch off your computer? All unsaved work will be lost...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">是否确定关闭你的电脑？&lt;p&gt;没有保存的工作将会丢失。。。</translation>
     </message>
     <message>
         <location filename="../powermanager.cpp" line="180"/>
@@ -123,7 +123,7 @@
         <location filename="../powermanager.cpp" line="193"/>
         <location filename="../powermanager.cpp" line="198"/>
         <source>Razor Power Manager Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Razor 电源管理错误</translation>
     </message>
     <message>
         <location filename="../powermanager.cpp" line="193"/>
@@ -165,42 +165,42 @@
         <location filename="../screensaver.cpp" line="111"/>
         <location filename="../screensaver.cpp" line="120"/>
         <source>Screen Saver Activation Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">激活屏幕保护错误</translation>
     </message>
     <message>
         <location filename="../screensaver.cpp" line="68"/>
         <source>An error occurred starting screensaver. xdg-screensaver cannot be started due its crash.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启动屏幕保护出错。xdg-screensaver 崩溃无法启动。 </translation>
     </message>
     <message>
         <location filename="../screensaver.cpp" line="76"/>
         <source>An error occurred starting screensaver. xdg-screensaver is not installed correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启动屏幕保护出错。xdg-screensaver 没有正确安装。</translation>
     </message>
     <message>
         <location filename="../screensaver.cpp" line="84"/>
         <source>An error occurred starting screensaver. xdg-screensaver cannot be started.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启动屏幕保护出错。xdg-screensaver 无法启动。</translation>
     </message>
     <message>
         <location filename="../screensaver.cpp" line="96"/>
         <source>An error occurred starting screensaver. Syntax error in xdg-screensaver arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启动屏幕保护出错。xdg-screensaver 参数语法错误。</translation>
     </message>
     <message>
         <location filename="../screensaver.cpp" line="104"/>
         <source>An error occurred starting screensaver. Ensure you have xscreensaver installed and running.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启动屏幕保护出错。请确认你已经安装并运行了 xdg-screensaver。</translation>
     </message>
     <message>
         <location filename="../screensaver.cpp" line="112"/>
         <source>An error occurred starting screensaver. Action &apos;activate&apos; failed. Ensure you have xscreensaver installed and running.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启动屏幕保护出错。“激活”动作失败，请确认你已经安装并运行了 xdg-screensaver。</translation>
     </message>
     <message>
         <location filename="../screensaver.cpp" line="121"/>
         <source>An error occurred starting screensaver. Unkown error - undocumented return value from xdg-screensaver=%1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启动屏幕保护出错。求和错误 - xdg-screensaver 返回了未知的值 =%1。</translation>
     </message>
 </context>
 <context>
